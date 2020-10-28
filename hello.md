@@ -12,4 +12,4 @@ git init 初始化 git仓库
 
 git remote add origin 仓库地址 用来绑定远程仓库。
 
-git remote remove origin 移除绑定。。
+git remote remove origin 移除绑定。...
